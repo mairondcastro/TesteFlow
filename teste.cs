@@ -1,0 +1,2 @@
+if (teste)
+  return "Ok"
